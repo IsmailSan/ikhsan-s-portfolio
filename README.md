@@ -6,7 +6,7 @@ PT Sentra Teknologi Nusantara
 **Description:**  
 An Android app for booking a boarding house.  
 **Technologies used:**  
-Kotlin, Ruby, Rails  
+Kotlin, Ruby on Rails  
 ![](Kostbuddy.png)
 
 ## 2. Jalan Nusa
@@ -15,7 +15,7 @@ PT Teknologi Madani Utama
 **Description:**  
 An app that helps businesses manage billing information and transactions.  
 **Technologies used:**  
-React Native, Ruby, Rails  
+React Native, Ruby on Rails  
 ![](CRM.png)
 
 ## 3. Legal Application System (LApS)
@@ -24,16 +24,16 @@ PT Bank Tabungan Negara
 **Description:**  
 An app for registering and monitoring legal cases.  
 **Technologies used:**  
-React Native, Ruby, Rails  
+React Native, Ruby on Rails  
 ![](LAps.png)
 
 ## 4. MR. RE (Royal Enfield Indonesian Community)
 **Client:**  
 Indonesian Royal Enfield Community  
 **Description:**  
-An application used for scanning at competition events.
+An application used for scanning at competition events.  
 **Technologies used:**  
-Kotlin, Ruby, Rails   
+Kotlin, Ruby on Rails  
 ![](Mr.RE.png)
 
 ## 5. KMS Waskita Mobile Apps
@@ -51,16 +51,16 @@ Wakil Bupati Bandung - Sahrul Gunawan
 **Description:**  
 An UMKM application for the Bandung district.  
 **Technologies used:**  
-React Native, Ruby, Rails   
+React Native, Ruby on Rails  
 ![](IEU.png)
 
 ## 7. Rocca Space
 **Client:**  
 Rocca Space  
 **Description:**  
-An application used by Rocca Space staff to scan participant attendance. 
+An application used by Rocca Space staff to scan participant attendance.  
 **Technologies used:**  
-Kotlin, Ruby, Rails   
+Kotlin, Ruby on Rails  
 ![](Rocca.png)
 
 ## 8. Travelsquare
@@ -69,7 +69,7 @@ PT Travel Square Global
 **Description:**  
 An Android app for booking hotels and holiday bundles.  
 **Technologies used:**  
-Kotlin, Ruby, Rails   
+Kotlin, Ruby on Rails  
 ![](TSQ.png)
 
 ## 9. BISA (Brilliant Innovative, Speed, Accountable)
@@ -78,5 +78,5 @@ Polda Banten
 **Description:**  
 An information app that includes the Polda Banten profile, weather information, and news.  
 **Technologies used:**  
-Kotlin, Python, Django
+Kotlin, Python, Django  
 ![](Bisa.png)
