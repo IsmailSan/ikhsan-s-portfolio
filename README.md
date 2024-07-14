@@ -7,7 +7,7 @@ PT Sentra Teknologi Nusantara
 An Android app for booking a boarding house.  
 **Technologies used:**  
 Kotlin, Ruby, Rails  
-![KostBuddy](path/to/image.png)
+![](Kostbuddy.png)
 
 ## 2. Jalan Nusa
 **Client:**  
@@ -16,7 +16,7 @@ PT Teknologi Madani Utama
 An app that helps businesses manage billing information and transactions.  
 **Technologies used:**  
 React Native, Ruby, Rails  
-![Jalan Nusa](path/to/image.png)
+![](CRM.png)
 
 ## 3. Legal Application System (LApS)
 **Client:**  
@@ -25,7 +25,7 @@ PT Bank Tabungan Negara
 An app for registering and monitoring legal cases.  
 **Technologies used:**  
 React Native, Ruby, Rails  
-![Legal Application System](path/to/image.png)
+![](LAps.png)
 
 ## 4. MR. RE (Royal Enfield Indonesian Community)
 **Client:**  
@@ -34,7 +34,7 @@ Indonesian Royal Enfield Community
 An application used for scanning at competition events.
 **Technologies used:**  
 Kotlin, Ruby, Rails   
-![MR. RE](path/to/image.png)
+![](Mr.RE.png)
 
 ## 5. KMS Waskita Mobile Apps
 **Client:**  
@@ -43,7 +43,7 @@ PT Waskita Karya
 A system application for managing company documents and knowledge management.  
 **Technologies used:**  
 Flutter, PHP, Laravel  
-![KMS Waskita](path/to/image.png)
+![](Waskita.png)
 
 ## 6. Integrasi Ekosistem UMKM - Kab. Bandung
 **Client:**  
@@ -52,7 +52,7 @@ Wakil Bupati Bandung - Sahrul Gunawan
 An UMKM application for the Bandung district.  
 **Technologies used:**  
 React Native, Ruby, Rails   
-![Integrasi Ekosistem UMKM](path/to/image.png)
+![](IEU.png)
 
 ## 7. Rocca Space
 **Client:**  
@@ -61,7 +61,7 @@ Rocca Space
 An application used by Rocca Space staff to scan participant attendance. 
 **Technologies used:**  
 Kotlin, Ruby, Rails   
-![Rocca Space](path/to/image.png)
+![](Rocca.png)
 
 ## 8. Travelsquare
 **Client:**  
@@ -70,7 +70,7 @@ PT Travel Square Global
 An Android app for booking hotels and holiday bundles.  
 **Technologies used:**  
 Kotlin, Ruby, Rails   
-![Travelsquare](path/to/image.png)
+![](TSQ.png)
 
 ## 9. BISA (Brilliant Innovative, Speed, Accountable)
 **Client:**  
@@ -79,4 +79,4 @@ Polda Banten
 An information app that includes the Polda Banten profile, weather information, and news.  
 **Technologies used:**  
 Kotlin, Python, Django
-![BISA](path/to/image.png)
+![](Bisa.png)
